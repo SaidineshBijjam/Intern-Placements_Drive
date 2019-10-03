@@ -1,0 +1,15 @@
+Coding Round:  Solved 2 out of 3 Questions. I was shortlisted for interviews.
+
+--------------Round 1----------------
+They asked me basic questions on my resume like what did you do in this project, etc.
+What is reverse-proxy??
+
+Basic Coding Question:
+Add to the two linked lists given, (i.e)
+A: 1->2->3, B: 7->8->9
+C = A + B (i.e) C: 9->1->2
+I was asked to code it.
+
+I solved it. But it took me around 1/2 hr because I didnot check the test cases which I have given to test my code.
+There were mistakes in that test case. Due to this, it took long to debug the small error in my code.
+Eventually, I did not get selected to the next round in this
