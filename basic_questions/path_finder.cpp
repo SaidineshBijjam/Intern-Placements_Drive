@@ -19,8 +19,8 @@ int algo(int row, int col, int count, int N, int **arr){
     if(row - 1 >= 0 && !arr[row - 1][col]) u = 1;
 
     // Checking if we are able to cover all blocks or not
-    // if((l&r) && !(u|d)) return 0;
-    // if((u&d) && !(l|r)) return 0;
+    if((l&r) && !(u|d)) return 0;
+    if((u&d) && !(l|r)) return 0;
 
     // Moving Up Down Left Right
     arr[row][col] = 1;
